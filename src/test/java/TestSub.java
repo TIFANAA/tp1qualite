@@ -1,10 +1,8 @@
-package test.java;
-
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import main.java.Sub;
 
-public class testSub {
+
+public class TestSub {
 
     @Test
     public void SubTest() {
